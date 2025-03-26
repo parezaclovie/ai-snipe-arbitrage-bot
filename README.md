@@ -1,28 +1,22 @@
-# Welcome to your Lovable project
+# AI-Powered Ethereum Sniper & Arbitrage Bot
 
-## Project info
+Short Description:
+Empowering traders with an advanced AI-driven Ethereum sniper and arbitrage bot. Features include Flashbots integration, MEV protection, NFT sniping, multi-DEX support, and real-time AI-powered trading strategies.
 
-**URL**: https://lovable.dev/projects/64d2a9a9-30b1-42a7-a302-101188044dc4
+Long Description:
+Blockchain trading is evolving rapidly, but high gas fees, MEV attacks, and bot detection create challenges for everyday users. Our project is a cutting-edge Ethereum sniper and arbitrage bot, leveraging AI-powered insights and MEV countermeasures to help traders execute profitable transactions efficiently.
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/64d2a9a9-30b1-42a7-a302-101188044dc4) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Key Features:
+✅ Flashbots Integration – Private transactions to avoid frontrunning.
+✅ Multi-DEX Support – Works across Uniswap, PancakeSwap, SushiSwap, and more.
+✅ AI-Powered Risk Assessment – Smart filtering of tokens & NFTs.
+✅ Gas Optimization Strategies – Reduce transaction fees while maximizing profit.
+✅ MEV Bot Countermeasures – Protect trades from malicious MEV extraction.
+✅ Telegram & Web Dashboard – Real-time alerts and AI-driven trade recommendations.
+✅ Cross-Chain Support – Ethereum, Solana, BSC, and Layer 2 networks.
 
 Follow these steps:
 
-```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -34,21 +28,6 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
@@ -59,11 +38,3 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/64d2a9a9-30b1-42a7-a302-101188044dc4) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
